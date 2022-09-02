@@ -6,3 +6,8 @@ Excercise from XmartLabs Web Training
 ## Acknowledgements
 
  - [W3SCHOOLS](https://www.w3schools.com/howto/howto_js_accordion.asp)
+
+
+## Demo
+
+https://tomy017.github.io/
